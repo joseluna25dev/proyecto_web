@@ -12,7 +12,7 @@
 .banner__title{
     font-family: "Sans Serif", Arial, Sans-Serif;
     color: white;
-    font-size: 18px;
+    font-size: 30px;
 }
 /*Cambia el color de fondo de los articulos*/
 .section__article{
@@ -24,7 +24,7 @@
 .article__issue{
     font-family: "Sans Serif", Arial, Sans-Serif;
     color: black;
-    font-size: 18px;
+    font-size: 22px;
 }
 /*Cambia el tipo de letra del texto del articulo a Roboto*/
 /*Cambia el color de la letra del texto del articulo*/
